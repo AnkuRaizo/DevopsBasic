@@ -1,5 +1,6 @@
-create a github file and link it up to vscode, while other can use fork and git clone their fork.
-create a html file and read me.
+#STEP DEVOPS 
+Create a github file and link it up to vscode, while other can use fork and git clone their fork.
+Create a html file and read me.
 Download and sign in into docker than put docker file and config in code.
 Build a docker file which ours is my-nginx-app and than run it using 8080:80 port.
 Go to localhost:8080
