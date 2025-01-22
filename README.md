@@ -1,4 +1,4 @@
-# STEP DEVOPS 
+#STEP DEVOPS 
 Create a github file and link it up to vscode, while other can use fork and git clone their fork.
 Create a html file and read me.
 Download and sign in into docker than put docker file and config in code.
